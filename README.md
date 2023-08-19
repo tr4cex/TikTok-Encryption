@@ -47,10 +47,10 @@ The API will respond with a JSON object containing the following keys:
   "platform": 0,
   "cookie": "cookie1=value1&cookie2=value2"
 }
-
+```
 #### Response
 
-'''json
+```json
 {
   "success": true,
   "result": {
@@ -63,4 +63,4 @@ The API will respond with a JSON object containing the following keys:
     "x-ss-stub": ""
   }
 }
-'''
+```
