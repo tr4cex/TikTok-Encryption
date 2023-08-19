@@ -1,6 +1,4 @@
-# API Documentation
-
-This documentation provides an overview of the usage and endpoints of the trial version of the API created using Flask.
+# Free API
 
 ## Sign Endpoint
 
