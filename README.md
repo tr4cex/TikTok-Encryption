@@ -47,3 +47,20 @@ The API will respond with a JSON object containing the following keys:
   "platform": 0,
   "cookie": "cookie1=value1&cookie2=value2"
 }
+
+#### Response
+
+'''json
+{
+  "success": true,
+  "result": {
+    "x-argus": "",
+    "x-ladon": "",
+    "x-gorgon": "",
+    "x-khronos": "",
+    "x-ss-req-ticket": "",
+    "x-tt-trace-id": "",
+    "x-ss-stub": ""
+  }
+}
+'''
