@@ -17,14 +17,14 @@ This endpoint generates a signature and related information based on the provide
 The request should be sent as a JSON object in the body of the POST request. The following parameters are supported:
 
 - `params` (required, str): A string representing the parameters.
-- `data` (optional, str): Data for generating the MD5 hash.
-- `device_id` (optional, str): Security device ID.
+- `data` (optional, str): Request Payload.
+- `device_id` (optional, str): Device ID.
 - `aid` (optional, int): Application ID.
 - `license_id` (optional, int): License ID.
 - `sdk_version_str` (optional, str): SDK version string.
 - `sdk_version` (optional, int): SDK version.
-- `platform` (optional, int): Platform information.
-- `cookie` (optional, str): Cookie information.
+- `platform` (optional, int): Platform.
+- `cookie` (optional, str): Cookie.
 
 ### Response
 
