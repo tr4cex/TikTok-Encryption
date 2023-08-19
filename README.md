@@ -40,12 +40,12 @@ The API will respond with a JSON object containing the following keys:
 ```json
 {
   "params": "param1=value1&param2=value2",
-  "data": "sample_data",
-  "device_id": "device123",
-  "aid": 456,
-  "license_id": 789,
+  "data": "request_payload",
+  "device_id": "7268580072775517702",
+  "aid": 1233,
+  "license_id": 123456789,
   "sdk_version_str": "v1.2.3",
   "sdk_version": 123456789,
-  "platform": 1,
-  "cookie": "my_cookie"
+  "platform": 0,
+  "cookie": "cookie1=value1&cookie2=value2"
 }
