@@ -4,7 +4,7 @@
 
 ### Endpoint
 
-`POST https://cebbb826-fe89-4212-95c3-1fdb623605fb.repl.co/sign`
+`POST https://cebbb826-fe89-4212-95c3-1fdb623605fb-00-2g826w2ezsw96.asia-b.replit.dev/sign`
 
 ### Description
 
