@@ -1,4 +1,3 @@
-
 # Free API
 
 ## Sign Endpoint
