@@ -4,7 +4,7 @@
 
 ### Endpoint
 
-`POST https://neutral-ladybug-desired.ngrok-free.app/sign`
+`POST http://gpt.catway.org:8000/sign`
 
 ### Description
 
