@@ -45,7 +45,7 @@ TikTok-Encryption/
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Mr-Abood/TikTok-Encryption.git
+git clone https://github.com/tr4cex/TikTok-Encryption.git
 cd TikTok-Encryption
 ```
 
